@@ -4,6 +4,6 @@
 int main() {
     ShopManager shop;
     shop.setupShop();
-    shop.displayMenu();
+    shop.start();
     return 0;
 }
